@@ -33,7 +33,8 @@ The utility explicitly targets and tracks hydrophilic-to-hydrophobic flips (such
 ## 🚀 Diagnostic Execution Output Preview
 
 When executed inside a connected development workspace (like Google Colab), the engine performs dynamic alignment matrix assessments and isolates functional anomalies instantly. 
-![Biophysical Diagnostic Dashboard](pipeline_output.png)
+
+<img src="pipeline_output.png" width="100%" alt="Biophysical Diagnostic Dashboard">
 
 ### Pipeline Metrics Log
 ```text
